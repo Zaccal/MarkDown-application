@@ -39,11 +39,7 @@ Authentication will be carried out with his login and password
 
 * Frontend
     - Tailwind
-    - HTML5
-    - SCSS
     - JavaScript ES6
-
-* future Stack
     - React
     - Next.js
     - TypeScript
